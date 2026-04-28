@@ -2,8 +2,6 @@
 
 PhishShield is a premium, real-time phishing domain detection platform designed to protect cryptocurrency users from malicious domains, typosquatting, and homoglyph attacks. Leveraging state-of-the-art neural patterns and AI-driven analysis, PhishShield provides immediate verdicts on the safety of any URL.
 
-![PhishShield Preview](https://via.placeholder.com/1200x600/000000/0070f3?text=PhishShield+AI+Security)
-
 ## 🚀 Features
 
 - **Autonomous Neural Analysis**: Real-time inspection of URLs using advanced AI models.
